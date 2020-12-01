@@ -7,7 +7,7 @@ Follow my progress below!
 
 | Day | Stars | Day | Stars |
 | ------ | ------ | ------ | ------ |
-| **[1](https://github.com/mateom99/Advent-of-Code-Solutions/tree/main/2020/Day%201)**  | ** | 2  |  |
+| **[1](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%201)**  | ** | 2  |  |
 | 3                  |    | 4  |  |
 | 5                  |    | 6  |  |
 | 7                  |    | 8  |  |
