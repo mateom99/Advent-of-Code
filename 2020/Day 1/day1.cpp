@@ -25,7 +25,7 @@ vector<int> readInput(string file){
 // Checks which two expenses sum to 2020 and returns their product
 int twoSum2020(vector<int> expenses){
     for (int i = 0; i < expenses.size(); i++)
-        for (int j = i; j < expenses.size(); j++)
+        for (int j = i+1; j < expenses.size(); j++)
                 if (expenses[i] + expenses[j] == 2020)
                     return expenses[i] * expenses[j];
 }
@@ -33,8 +33,8 @@ int twoSum2020(vector<int> expenses){
 // Checks which three expenses sum to 2020 and returns their product
 int threeSum2020(vector<int> expenses){
     for (int i = 0; i < expenses.size(); i++)
-        for (int j = i; j < expenses.size(); j++)
-            for (int k = j; k < expenses.size(); k++)
+        for (int j = i+1; j < expenses.size(); j++)
+            for (int k = j+1; k < expenses.size(); k++)
                 if (expenses[i] + expenses[j] + expenses[k] == 2020)
                     return expenses[i] * expenses[j] * expenses[k];
 }
