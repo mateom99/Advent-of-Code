@@ -4,10 +4,11 @@ I am aiming to complete every advent of code problem the same day it is released
 Follow my progress below!  
 
 ## Progress
+### Stars: 4
 
 | Day | Stars | Day | Stars |
 | ------ | ------ | ------ | ------ |
-| **[1](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%201)**  | ** | 2  |  |
+| **[1](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%201)**  | ** | **[2](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%202)** | ** |
 | 3                  |    | 4  |  |
 | 5                  |    | 6  |  |
 | 7                  |    | 8  |  |
