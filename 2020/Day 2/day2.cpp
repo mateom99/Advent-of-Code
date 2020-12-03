@@ -103,9 +103,8 @@ int checkPasswordsFixed(vector<tobogganPass> passList){
 		int secondPos = passList[i].max-1;
 		
 		// Increment goodPasswords if the character matches for only one of the positions
-		if (passList[i].pass[firstPos] == requiredChar && passList[i].pass[secondPos] != requiredChar)
-			goodPasswords++;
-		if (passList[i].pass[firstPos] != requiredChar && passList[i].pass[secondPos] == requiredChar)
+		// Note: we XOR (^) the two so we return true of only one condition is true (exclusive or)
+		if ( (passList[i].pass[firstPos] == requiredChar) ^ (passList[i].pass[secondPos] == requiredChar) )
 			goodPasswords++;
 	}
 
