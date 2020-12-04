@@ -8,7 +8,7 @@ Follow my progress below!
 | Day | Stars | Day | Stars |
 | ------ | ------ | ------ | ------ |
 | **[1](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%201)**  | ** | **[2](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%202)** | ** |
-| **[3](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%203)**  | ** | 4  |  |
+| **[3](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%203)**  | ** | **[4](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%204)** | ** |
 | 5                  |    | 6  |  |
 | 7                  |    | 8  |  |
 | 9                  |    | 10 |  |
@@ -19,4 +19,4 @@ Follow my progress below!
 | 19                 |    | 20 |  |
 | 21                 |    | 22 |  |
 | 23                 |    | 24 |  |
-| 25                 |    | **TTL:** | **6*** |
+| 25                 |    | **TTL:** | **8*** |
