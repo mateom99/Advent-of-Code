@@ -69,6 +69,21 @@ int getBoardingPassID(string pass){
 	return row*8 + col;
 }
 
+/* Fast trick to getting the boarding pass ID
+ * Convert each character to binary (B/R = 1, F/L = 0)
+ * Then simply convert the binary to decimal */
+int quickBoardingPassID(string pass){
+	// For every character convert to 1 or 0
+	for (int i = 0; i < 10 ; i++)
+		if (pass[i] == 'B' || pass[i] == 'R')
+			pass[i] = '1';
+		else 
+			pass[i] = '0';
+	
+	// Convert the binary string to decimal and return
+	return stoi(pass, 0, 2);
+}
+
 // Checks all boarding passes and returns the one with the largest ID
 int maxBoardingPassID(vector<string> boardingPasses){
 	// Variable to hold the max
@@ -76,7 +91,7 @@ int maxBoardingPassID(vector<string> boardingPasses){
 	// Loop through every boarding pass
 	for (int i = 0; i < boardingPasses.size(); i++){
 		// Get the current passes ID and check if it is the new max
-		int id = getBoardingPassID(boardingPasses[i]);
+		int id = quickBoardingPassID(boardingPasses[i]);
 		if (id>max)
 			max = id;
 	}
