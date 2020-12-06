@@ -4,4 +4,4 @@ This puzzle was amazing for so many reasons! This puzzle must have been a millio
 
   -Mateo  
 ### Visualization
-![Visualization](https://github.com/mateom99/Advent-of-Code/blob/8dc55e2700d816a21e859ef7d3b219fb2de0aba7/2020/Day%205/Visualization.gif?raw=true)
+![Visualization](./Visualization.gif)
