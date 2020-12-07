@@ -10,7 +10,7 @@ Follow my progress below!
 | **[1](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%201)**  | ** | **[2](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%202)** | ** |
 | **[3](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%203)**  | ** | **[4](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%204)** | ** |
 | **[5](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%205)**  | ** | **[6](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%205)** | ** |
-| 7                  |    | 8  |  |
+| **[7](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%207)**  | ** | 8 |  |
 | 9                  |    | 10 |  |
 | 11                 |    | 12 |  |
 | 13                 |    | 14 |  |
@@ -19,4 +19,4 @@ Follow my progress below!
 | 19                 |    | 20 |  |
 | 21                 |    | 22 |  |
 | 23                 |    | 24 |  |
-| 25                 |    | **TTL:** | **12*** |
+| 25                 |    | **TTL:** | **14*** |
