@@ -7,16 +7,16 @@ Follow my progress below!
   
 | Day | Stars | Day | Stars |
 | ------ | ------ | ------ | ------ |
-| **[1](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%201)**  | ** | **[2](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%202)**   | ** |
-| **[3](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%203)**  | ** | **[4](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%204)**   | ** |
-| **[5](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%205)**  | ** | **[6](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%205)**   | ** |
-| **[7](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%207)**  | ** | **[8](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%208)**   | ** |
-| **[9](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%209)**  | ** | **[10](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%2010)** | ** |
-| 11                 |    | 12 |  |
+| **[1](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%201)**   | ** | **[2](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%202)**   | ** |
+| **[3](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%203)**   | ** | **[4](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%204)**   | ** |
+| **[5](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%205)**   | ** | **[6](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%205)**   | ** |
+| **[7](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%207)**   | ** | **[8](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%208)**   | ** |
+| **[9](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%209)**   | ** | **[10](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%2010)** | ** |
+| **[11](https://github.com/mateom99/Advent-of-Code/tree/main/2020/Day%2011)** | ** | 12 |  |
 | 13                 |    | 14 |  |
 | 15                 |    | 16 |  |
 | 17                 |    | 18 |  |
 | 19                 |    | 20 |  |
 | 21                 |    | 22 |  |
 | 23                 |    | 24 |  |
-| 25                 |    | **TTL:** | **20*** |
+| 25                 |    | **TTL:** | **22*** |
