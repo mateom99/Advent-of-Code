@@ -4,4 +4,4 @@ This was the first day that I didn't have time to start right when it was releas
 
   -Mateo  
 ### Visualization
-![Visualization](./Visualization.gif)
+<img src="./Visualization.gif" alt="Visualization" width="450">
